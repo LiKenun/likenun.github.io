@@ -1,16 +1,12 @@
-# About Me
+# Projects
 
-Builder, tinkerer, and explorer of all things that can be poked and prodded with a keyboard or mouse. Ever optimistic believer of Murphy’s Law. Can be found vacationing in Debugging Hell.
-
-## Projects
-
-### [nyc-opendata-search-results-scraper](https://github.com/LiKenun/nyc-opendata-search-results-scraper)
+## [nyc-opendata-search-results-scraper](https://github.com/LiKenun/nyc-opendata-search-results-scraper)
 
 A pair of IPython notebooks for scraping NYC OpenData’s website for data sets and clustering them by similarity. This is an ongoing year-long academic project in collaboration with NYC Department of Education to help document, catalog, and clean their 1,000+ data sets.
 
 **Contributors:** *myself*
 
-### [2021-fall-data-science](https://github.com/LiKenun/2021-fall-data-science)
+## [2021-fall-data-science](https://github.com/LiKenun/2021-fall-data-science)
 
 Class work from the CUNY Tech Prep program data science track. Contains completed exercises dealing with:
 
