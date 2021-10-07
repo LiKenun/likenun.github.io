@@ -2,29 +2,15 @@
 
 ## [nyc-opendata-search-results-scraper](https://github.com/LiKenun/nyc-opendata-search-results-scraper)
 
-A pair of IPython notebooks for scraping NYC OpenData’s website for data sets and clustering them by similarity. This is an ongoing year-long academic project in collaboration with NYC Department of Education to help document, catalog, and clean their 1,000+ data sets.
+A pair of Jupyter notebooks for scraping NYC OpenData’s website for data sets and clustering them by similarity. This *ongoing* year-long academic project in collaboration with NYC Department of Education (DOE) aims to help document, catalog, and clean 1,000+ data sets related to the NYC DOE.
 
 **Contributors:** *myself*
 
-## [2021-fall-data-science](https://github.com/LiKenun/2021-fall-data-science)
+## [Hackathon-pygame](https://github.com/jessicajumelles/Hackathon-pygame)
 
-Class work from the CUNY Tech Prep program data science track. Contains completed exercises dealing with:
+A social distancing game and winning entry written in Python by a team of 3 for the CUNY Tech Prep Hackathon (2021). [See DEVPOST for the project details.](https://devpost.com/software/the-fight-against-covid)
 
-* [Pandas](https://github.com/LiKenun/2021-fall-data-science/tree/main/Week-01-Pandas)
-* [Exploratory data analysis (EDA)](https://github.com/LiKenun/2021-fall-data-science/tree/main/Week-02-EDA)
-* [Logistic regression](https://github.com/LiKenun/2021-fall-data-science/tree/main/Week-03-Intro-To-ML)
-* [Linear regression](https://github.com/LiKenun/2021-fall-data-science/tree/main/Week-04-Regression)
-* [Random forest classifiers](https://github.com/LiKenun/2021-fall-data-science/tree/main/Week-04-Regression)
-* Data visualizations
-* Classification
-* Decision trees
-* Natural language processing (NLP)
-* Image classifiers
-* Neural networks
-* AB testing
-* Flask
-
-**Contributors:** [Zack DeSario](https://github.com/zd123), *myself*
+**Contributors:** [Jessica Jumelles](https://github.com/jessicajumelles), *myself*, [Emmanuel Mbira](https://github.com/mbiraemmanuel)
 
 # Publications
 
