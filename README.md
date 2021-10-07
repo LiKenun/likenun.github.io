@@ -25,3 +25,7 @@ Class work from the CUNY Tech Prep program data science track. Contains complete
 * Flask
 
 **Contributors:** [Zack DeSario](https://github.com/zd123), *myself*
+
+# Publications
+
+* [Generic BinaryReader and BinaryWriter Extensions](https://www.codeproject.com/Articles/33713/Generic-BinaryReader-and-BinaryWriter-Extensions) *February 2009*
