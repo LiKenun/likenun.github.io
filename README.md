@@ -12,6 +12,24 @@ A social distancing game and winning entry written in Python by a team of 3 for 
 
 **Contributors:** [Jessica Jumelles](https://github.com/jessicajumelles), *myself*, [Emmanuel Mbira](https://github.com/mbiraemmanuel)
 
+--------------------------------------------------------------------------------
+
 # Publications
 
 * [Generic BinaryReader and BinaryWriter Extensions](https://www.codeproject.com/Articles/33713/Generic-BinaryReader-and-BinaryWriter-Extensions) *February 2009*
+
+--------------------------------------------------------------------------------
+
+# More About Me
+
+## Education
+
+**[Bachelor of Science in Data Science](http://www.citytech.cuny.edu/computer-systems/data-science-bs.aspx)** at *[New York City College of Technology (NYCCT)](https://www.citytech.cuny.edu/), [City University of New York (CUNY)](https://www.cuny.edu/)* with relevant courses in *data mining*, *data security*, *database administration*, *data structures/algorithms*, *Python*, *Java*, *C++*, *web programming* (expected graduation in December 2022)
+
+## Tech Competencies
+
+C♯, HTML, Power Query M, Python, Java, SQL, CSS, JavaScript, PHP, Visual Basic, Git, Microsoft Access, Flask
+
+## Miscellaneous
+
+I’m also an amateur linguist (≠ polyglot), 3-D model designer, cartoonist, and boulderer. I run fine on both regular and decaf coffee.
