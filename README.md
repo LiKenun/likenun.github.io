@@ -33,3 +33,7 @@ C♯, HTML, Power Query M, Python, Java, SQL, CSS, JavaScript, PHP, Visual Basic
 ## Miscellaneous
 
 I’m also an amateur linguist (≠ polyglot), 3-D model designer, cartoonist, and boulderer. I run fine on both regular and decaf coffee.
+
+--------------------------------------------------------------------------------
+
+Find me on [LinkedIn](https://www.linkedin.com/in/LiKenun)
