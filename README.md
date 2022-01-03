@@ -6,6 +6,12 @@ Make shopping easy with this autocomplete shopping list app. The predictions are
 
 **Contributors:** [David Charles](https://github.com/DCharles01), *myself*
 
+## [snake](https://github.com/LiKenun/snake)
+
+A classic-looking game of Snake written in Java.
+
+**Contributors:** *myself*, [Martin Liang](https://github.com/MartyLardy), Asra Pervaiz, Naheed Reyyhad
+
 ## [Hackathon-pygame](https://github.com/jessicajumelles/Hackathon-pygame)
 
 A social distancing game and winning entry written in Python by a team of 3 for the CUNY Tech Prep Hackathon (2021). [See DEVPOST for the project details.](https://devpost.com/software/the-fight-against-covid)
