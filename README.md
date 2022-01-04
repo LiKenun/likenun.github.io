@@ -4,11 +4,15 @@
 
 Make shopping easy with this autocomplete shopping list app. The predictions are powered by learning from 3 million transactions and the products people purchased using the Instacart market basket analysis data set.
 
+![Screencap](https://user-images.githubusercontent.com/65802312/147989178-c2023e91-4bae-4658-b187-2e95c9358539.gif)
+
 **Contributors:** [David Charles](https://github.com/DCharles01), *myself*
 
 ## [snake](https://github.com/LiKenun/snake)
 
 A classic-looking game of Snake written in Java.
+
+![Screencap](https://user-images.githubusercontent.com/65802312/147987311-21a837a0-d6cc-4229-8917-09dcdbad0d08.gif)
 
 **Contributors:** *myself*, [Martin Liang](https://github.com/MartyLardy), Asra Pervaiz, Naheed Reyyhad
 
