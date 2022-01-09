@@ -6,6 +6,8 @@ Make shopping easy with this autocomplete shopping list app. The predictions are
 
 ![Screencap](https://user-images.githubusercontent.com/65802312/147989178-c2023e91-4bae-4658-b187-2e95c9358539.gif)
 
+Try the demo online at [shopping-assistant-demo.herokuapp.com](https://shopping-assistant-demo.herokuapp.com/)!
+
 **Contributors:** [David Charles](https://github.com/DCharles01), *myself*
 
 ## [snake](https://github.com/LiKenun/snake)
